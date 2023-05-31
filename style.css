@@ -10,8 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height:100vh;
-    background-color: #212121;
-    color:white;
+    background-color:rgb(136, 177, 117);
+    color:rgb(232, 12, 210);
 
 }
 .container{
@@ -22,7 +22,7 @@ body{
     width:300px;
     height:300px;
     border-radius: 50%;
-    background-color: rgba(255,255,255,0.3);
+    background-color: rgba(255,255,255,0.4);
     border:2px solid rgba(255,255,255,0.25);
     box-shadow: 0 0 30px rgba(0,0,0,0.9) ;
     display:flex;

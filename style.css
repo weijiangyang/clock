@@ -34,6 +34,7 @@ body{
     transform:rotate(calc(30deg*var(--i)));
     inset:12px;
     text-align: center;
+   
 }
 
 .clock span b{
